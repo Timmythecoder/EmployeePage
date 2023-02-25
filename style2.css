@@ -1,0 +1,10 @@
+body{
+    background-color: antiquewhite;
+}
+.names{
+   font-size: 30;
+    color: rgb(16, 24, 59);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-left-color: blueviolet;
+
+}
